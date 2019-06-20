@@ -6,3 +6,6 @@ git is a distributed vesion control system
 
 
 git is power tool.
+
+
+git remote and push.
